@@ -1,0 +1,29 @@
+body{
+	background-color: #a19fa0;
+	font-family: Arial;
+}
+
+#main-container{
+	margin: 150px auto;
+	width: 600px;
+}
+
+table{
+	background-color: white;
+	text-align: left;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+table,td {
+	border: 1px solid black;
+}
+
+th, td{
+	padding: 50px;
+}
+
+.botones {
+	width: 120px;
+	height: 120px;
+}
